@@ -20,7 +20,7 @@
 
 
 ## result
-    Validation accuracy on random sampled 100 examples = 83.2%
+  after epoch=10, accuracy = 77% #if increase the epoch,the accuracy may higher.
 * 训练准确率、损失
 
 <img src="https://github.com/jiangyiqiao/fundus_densenet40_binary_classification/blob/master/results/keras40_acc.png" width="1000" height="400"/> <img src="https://github.com/jiangyiqiao/fundus_densenet40_binary_classification/blob/master/results/keras40_loss.png" width="1000" height="400"/> 
