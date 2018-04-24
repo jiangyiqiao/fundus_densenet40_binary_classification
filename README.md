@@ -23,7 +23,7 @@
     Validation accuracy on random sampled 100 examples = 83.2%
 * 训练准确率、损失
 
-<img src="https://github.com/jiangyiqiao/fundus_densenet40_binary_classification/blob/master/results/keras40_valacc.png" width="1000" height="400"/> <img src="https://github.com/jiangyiqiao/fundus_densenet40_binary_classification/blob/master/results/keras40_loss.png" width="1000" height="400"/> 
+<img src="https://github.com/jiangyiqiao/fundus_densenet40_binary_classification/blob/master/results/keras40_acc.png" width="1000" height="400"/> <img src="https://github.com/jiangyiqiao/fundus_densenet40_binary_classification/blob/master/results/keras40_loss.png" width="1000" height="400"/> 
 
 * 验证准确率、损失
 
